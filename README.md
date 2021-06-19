@@ -8,9 +8,9 @@
     <a href="https://pakshay.com">pakshay.com</a>
     <br />
     <br />
-    <a href="https://pakshay.com.com">About Me</a>
+    <a href="https://pakshay.com">About Me</a>
   </p>
   
-  <a> Forked from HashirShoaeb</a>
+  <a><small>Forked from <href="https://github.com/hashirshoaeb/home"> repo </href></small></a>
 </p>
 
