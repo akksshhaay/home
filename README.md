@@ -11,6 +11,6 @@
     <a href="https://pakshay.com">About Me</a>
   </p>
   
-  <a><small>Forked from <href="https://github.com/hashirshoaeb/home"> repo </href></small></a>
+  <a><small>Forked from <a href="https://github.com/hashirshoaeb/home"> repo </a></small></a>
 </p>
 
